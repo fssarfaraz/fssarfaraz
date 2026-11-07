@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fatima. A graduate CS and AI student at Boston University. A FinTech enthusiast and an aspring Entrepreneur, hoping to make my mark on the world</h1>
-# 💫 About Me:
-🔭 I’m currently working on my MS in CS and AI<br>🌱 I’m currently learning AI, Cloud Computing and System Design<br>💬 Ask me about my research project: AI for EdTech<br>
+## 💫 About Me: <br>
+🔭 I’m currently working on my MS in CS and AI<br>
+🌱 I’m currently learning AI, Cloud Computing and System Design<br>
+💬 Ask me about my research project: AI for EdTech<br>
 
 
-## 🌐 Socials:
+## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fatima-sarfaraz-a29316123) 
 
 # 💻 Tech Stack:

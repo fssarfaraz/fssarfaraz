@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatima</h1>
-<h3 align="center">A graduate CS and AI student at Boston University. I am a FinTech Enthusiast and an aspring Entrepreneur, hoping to make my mark on the world.from India</h3>
+<h3 align="center">A graduate CS and AI student at Boston University. I am a FinTech Enthusiast and an aspring Entrepreneur, hoping to make my mark on the world</h3>
 
 - 🔭 I’m currently working on **my MS in CS and AI**
 

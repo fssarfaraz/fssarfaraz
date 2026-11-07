@@ -15,3 +15,6 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=fssarfaraz&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 📄 Download My Resume
+👉 [Click here to view/download my complete PDF Resume](https://github.com/fssarfaraz/fssarfaraz/blob/main/Fatima%20Sarfaraz%20CV%20Github.pdf)
